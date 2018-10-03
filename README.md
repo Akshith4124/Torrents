@@ -4,4 +4,4 @@
 2.JavaScript.
 3.Deep Learning.
 4.Neural Networks and Deep Learning.
-5.Angular,React,Node JS.
+5.Angular,React,Node.
